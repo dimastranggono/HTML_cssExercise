@@ -1,0 +1,17 @@
+a{
+	text-align: center;
+	font-family: arial;
+}
+body{
+	background-color: black;
+	font-family: arial;
+}
+header{
+	background-color: yellow;
+}
+.p1{
+	color: white;
+}
+.h2{
+	color: white;
+}

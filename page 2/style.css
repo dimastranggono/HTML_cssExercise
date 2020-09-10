@@ -1,0 +1,59 @@
+p{
+	font: normal 16px helvetica,sans-serif ;
+}
+h2{
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bolder;
+	/*value = bolder/lighter/bold/normal*/
+	font-style: oblique;
+	/*value:italic,normal,initial,oblique*/
+	color: white;
+
+}
+p{
+	text-align: center;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	color: black;
+}
+.b{
+	text-decoration:line-through; 
+}
+ol li{
+	color: white;
+}
+
+header{
+	background-color:lightblue;
+	background-image: url(images/west1.png);
+	background-position: center;
+	background-repeat : no-repeat;
+}
+
+body{
+	background-color: blue;
+	background-image: url(images/gang.jpg);
+	background-position: top-left;
+	background-repeat: repeat-y;
+	background-size: 1000px;
+	background-position: center;
+
+
+}
+a:hover{
+	color: magenta;
+}
+a:active{
+	color: purple;
+}
+a{
+	color: red;
+}
+
+.x{
+	color: black;
+}
